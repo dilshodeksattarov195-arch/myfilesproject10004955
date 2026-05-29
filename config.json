@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionpncrypt",
+        "uuid": 19037110,
+        "checksum": "aeamea"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
